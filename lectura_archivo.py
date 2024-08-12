@@ -35,7 +35,7 @@ def centrar_ventana(ventana, ancho, alto):
 
 def crear_ventana(callback):
     root = tk.Tk()
-    root.title("Cargar Datos de Excel")
+    root.title("Main aproximación Gompertz")
     root.configure(bg='white')  # Fondo blanco para la ventana
 
     # Centrar la ventana

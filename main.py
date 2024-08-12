@@ -1,6 +1,8 @@
 import numpy as np
 import scipy.optimize as opt
 import sympy as sp
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from lectura_archivo import crear_ventana
 
